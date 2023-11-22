@@ -1,7 +1,5 @@
 # Data-Science-Interview-Assignment
 
-Download the dataset here.
-
 Calculate and output the following:
 
 1) What is the total number of people living with HIV (NoPLHIV) in the listed districts according to the Survey estimate?

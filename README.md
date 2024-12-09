@@ -1,4 +1,4 @@
-# Data-Science-Assignment
+# Data Science  Assignment
 
 Calculate and output the following:
 

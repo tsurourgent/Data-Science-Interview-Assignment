@@ -1,4 +1,4 @@
-# Data-Science-Interview-Assignment
+# Data-Science-Assignment
 
 Calculate and output the following:
 
